@@ -14,7 +14,7 @@ If you get an error message like this:
 
 python is not recognized as an internal or external command, operable program or batch file.
 
-Then it means that python has not been installed on your computer or probably python is not saved in the path environment variable of your computer, so you cannot run Python from any location without having to constantly reference the full installation path name. Make sure to check my write-up on how to install python on windows.
+Then it means that python has not been installed on your computer or probably python is not saved in the path environment variable of your computer, so you cannot run Python from any location without having to constantly reference the full installation path name.
 
 
 After installing python you have to install pip:
